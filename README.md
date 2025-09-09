@@ -15,5 +15,7 @@ The analysis highlights adoption patterns, sales growth, and market insights der
 - **Tableau** (Data visualization and dashboards)
 - **Excel/CSV** (Data preprocessing and cleaning)
 
+#sample screenshot of dashboard
+<img width="1637" height="761" alt="image" src="https://github.com/user-attachments/assets/3adf3680-13fe-4c45-8dbb-833a9f98c7cb" />
 
 
